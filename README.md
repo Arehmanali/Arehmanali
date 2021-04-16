@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Arehmanali&color=blueviolet&label=Profile+Views)
 <a href="https://twitter.com/MeRehmanAli">
 <img alt="@Arehmanali | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/rehman-ali-26a918194/">
+</a>  <a href="https://www.linkedin.com/in/merehmanali/">
 <img alt="Arehmanali | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> <a href="https://medium.com/@Arehmanali" target="_blank">
 </a>
