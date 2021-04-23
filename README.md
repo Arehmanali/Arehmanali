@@ -1,4 +1,4 @@
-### [Rehman Ali](https://rehmanali.me/) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
+### [Rehman Ali](https://rehmanali.ml/) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
 
 <p align="center">
 
