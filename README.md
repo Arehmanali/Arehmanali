@@ -27,16 +27,7 @@
 - ⚡ Working on creating open-source web & desktop apps.
 
 
-### Top Tools & Languages 
-<img src="https://user-images.githubusercontent.com/55204040/148059979-a7d02b27-8812-48c8-b9ba-1e2664ec8968.png" alt=".Net" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="30" height="30"/>
-<img src="https://user-images.githubusercontent.com/55204040/148060411-2e78751d-d8c1-4810-86c7-d2e7d05ffc69.png" width="30" alt="C#" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" alt="C++" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="Git" height="30" />
-<img src="https://user-images.githubusercontent.com/55204040/148060556-2deef031-7d44-4a1c-b227-551c6a1010f1.png" alt="SQL" width="30" height="30"/>
-<img src="https://user-images.githubusercontent.com/55204040/148060727-df6f5a30-b746-4bef-8842-b503369872ab.png" alt="VisualStudio" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>
+### Top Tools & Languages  <img src="https://user-images.githubusercontent.com/55204040/148059979-a7d02b27-8812-48c8-b9ba-1e2664ec8968.png" alt=".Net" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="30" height="30"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/55204040/148060411-2e78751d-d8c1-4810-86c7-d2e7d05ffc69.png" width="30" alt="C#" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" alt="C++" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="Git" height="30" /> <img src="https://user-images.githubusercontent.com/55204040/148060556-2deef031-7d44-4a1c-b227-551c6a1010f1.png" alt="SQL" width="30" height="30"/> <img src="https://user-images.githubusercontent.com/55204040/148060727-df6f5a30-b746-4bef-8842-b503369872ab.png" alt="VisualStudio" width="30" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>
 
 ![Rehman's github stats](https://github-readme-stats.vercel.app/api?username=Arehmanali&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arehmanali&hide=python&layout=compact&theme=tokyonight)
