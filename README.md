@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arehmanali" alt="arehmanali" /></a> </p>
 
-- 🔭 I’m currently working on [moore exotics](https://app.mooreexotics.com/)
-
-- 👯 I’m looking to collaborate on [MapleHR](https://devsinc.maplehr.io)
-
 - 💬 Ask me about **React, Node, Express, Nest, Next, Angular, Remix**
 
 - 📫 How to reach me **merehmanali@gmail.com**
