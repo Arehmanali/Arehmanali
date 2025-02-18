@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **merehmanali@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10G1mJciSzkpQ3G7yvZuszFVHd84Dq1fHKGDXuzr45AE/edit?usp=sharing](https://docs.google.com/document/d/10G1mJciSzkpQ3G7yvZuszFVHd84Dq1fHKGDXuzr45AE/edit?usp=sharing)
-
 - ⚡ Fun fact **I am proud to be a coder**
 
 <h3 align="left">Languages and Tools:</h3>
